@@ -1,4 +1,4 @@
 tradingpost
 ===========
 
-charts pri
+charts price
