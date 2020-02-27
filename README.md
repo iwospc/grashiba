@@ -1,4 +1,4 @@
 tradingpost
 ===========
 
-charts prices on the 
+charts prices on the G
