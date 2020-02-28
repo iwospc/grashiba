@@ -1,4 +1,4 @@
 tradingpost
 ===========
 
-charts prices on the G
+charts prices on the Guild
