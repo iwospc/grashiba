@@ -1,4 +1,4 @@
 tradingpost
 ===========
 
-charts prices on the Guild W
+charts prices on the Guild War
