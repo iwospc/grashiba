@@ -1,4 +1,4 @@
 tradingpost
 ===========
 
-charts prices on the Guild Wars 2 Trad
+charts prices on the Guild Wars 2 Tradin
