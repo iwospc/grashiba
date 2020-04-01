@@ -1,1 +1,1 @@
-<script src="https://www.google.com/js
+<script src="https://www.google.com/jsapi
