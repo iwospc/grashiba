@@ -1,3 +1,3 @@
 <script src="https://www.google.com/jsapi"></script>
 <script>
-	google.load("visualization", "1", {p
+	google.load("visualization", "1", {pa
