@@ -1,3 +1,3 @@
 <script src="https://www.google.com/jsapi"></script>
 <script>
-	google.load("visualization", "1", {packages:["cor
+	google.load("visualization", "1", {packages:["corec
