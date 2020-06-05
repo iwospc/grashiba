@@ -4,4 +4,4 @@
 	google.setOnLoadCallback(drawChart);
 /*
 
-	Try fixing t
+	Try fixing the
