@@ -4,4 +4,4 @@
 	google.setOnLoadCallback(drawChart);
 /*
 
-	Try fixing the date formatting on the JS side he
+	Try fixing the date formatting on the JS side her
