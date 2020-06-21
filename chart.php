@@ -6,4 +6,4 @@
 
 	Try fixing the date formatting on the JS side here
 
-	Then ta
+	Then tackl
