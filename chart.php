@@ -6,4 +6,4 @@
 
 	Try fixing the date formatting on the JS side here
 
-	Then tackle the pr
+	Then tackle the pric
