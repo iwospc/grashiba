@@ -8,4 +8,4 @@
 
 	Then tackle the price formatting
 
-*
+*/
