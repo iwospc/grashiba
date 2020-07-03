@@ -9,4 +9,4 @@
 	Then tackle the price formatting
 
 */
-	func
+	functio
