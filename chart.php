@@ -10,4 +10,4 @@
 
 */
 	function drawChart() {
-//		var data = g
+//		var data = goo
