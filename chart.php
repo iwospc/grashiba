@@ -10,4 +10,4 @@
 
 */
 	function drawChart() {
-//		var data = google.v
+//		var data = google.vi
