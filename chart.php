@@ -10,4 +10,4 @@
 
 */
 	function drawChart() {
-//		var data = goo
+//		var data = google
