@@ -10,4 +10,4 @@
 
 */
 	function drawChart() {
-//		var data = google.visualization.arrayToDataTable
+//		var data = google.visualization.arrayToDataTable(<?
