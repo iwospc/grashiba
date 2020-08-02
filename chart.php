@@ -10,4 +10,4 @@
 
 */
 	function drawChart() {
-//		var data = google.visualization.arrayToDataTable(<?php echo $stack ?>
+//		var data = google.visualization.arrayToDataTable(<?php echo $stack ?>);
