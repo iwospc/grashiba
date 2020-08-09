@@ -11,4 +11,4 @@
 */
 	function drawChart() {
 //		var data = google.visualization.arrayToDataTable(<?php echo $stack ?>);
-		var data = new
+		var data = new g
