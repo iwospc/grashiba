@@ -12,4 +12,4 @@
 	function drawChart() {
 //		var data = google.visualization.arrayToDataTable(<?php echo $stack ?>);
 		var data = new google.visualization.DataTable();
-		data.addCo
+		data.addColu
