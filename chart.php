@@ -13,4 +13,4 @@
 //		var data = google.visualization.arrayToDataTable(<?php echo $stack ?>);
 		var data = new google.visualization.DataTable();
 		data.addColumn('date', 'Date');
-		data.addColumn('number', 'Buy Price
+		data.addColumn('number', 'Buy Price');
