@@ -14,4 +14,4 @@
 		var data = new google.visualization.DataTable();
 		data.addColumn('date', 'Date');
 		data.addColumn('number', 'Buy Price');
-		data.addColu
+		data.addColum
