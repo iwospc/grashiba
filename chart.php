@@ -15,3 +15,4 @@
 		data.addColumn('date', 'Date');
 		data.addColumn('number', 'Buy Price');
 		data.addColumn('number', 'Sale Price');
+		
