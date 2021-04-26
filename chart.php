@@ -15,4 +15,4 @@
 		data.addColumn('date', 'Date');
 		data.addColumn('number', 'Buy Price');
 		data.addColumn('number', 'Sale Price');
-		data.addRows(<?php echo $stack ?
+		data.addRows(<?php echo $stack ?>)
