@@ -18,3 +18,4 @@
 		data.addRows(<?php echo $stack ?>);
 
 		var options = {
+		
