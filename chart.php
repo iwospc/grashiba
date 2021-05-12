@@ -17,4 +17,4 @@
 		data.addColumn('number', 'Sale Price');
 		data.addRows(<?php echo $stack ?>);
 
-		var options 
+		var options = 
