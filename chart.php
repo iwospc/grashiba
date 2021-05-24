@@ -18,4 +18,4 @@
 		data.addRows(<?php echo $stack ?>);
 
 		var options = {
-			tit
+			titl
