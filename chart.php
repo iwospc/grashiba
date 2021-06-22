@@ -18,4 +18,4 @@
 		data.addRows(<?php echo $stack ?>);
 
 		var options = {
-			title: 'Trading Post
+			title: 'Trading Post P
