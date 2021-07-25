@@ -19,4 +19,4 @@
 
 		var options = {
 			title: 'Trading Post Prices for <?php echo $itemName ?>'
-		}
+		};
