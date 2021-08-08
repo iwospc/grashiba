@@ -21,4 +21,4 @@
 			title: 'Trading Post Prices for <?php echo $itemName ?>'
 		};
 
-		var chart = new googl
+		var chart = new google.v
