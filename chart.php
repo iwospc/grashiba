@@ -21,4 +21,4 @@
 			title: 'Trading Post Prices for <?php echo $itemName ?>'
 		};
 
-		var chart = new google.visualization.LineCha
+		var chart = new google.visualization.LineChart(
