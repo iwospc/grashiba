@@ -22,3 +22,4 @@
 		};
 
 		var chart = new google.visualization.LineChart(document.getElementById('table_div'));
+
