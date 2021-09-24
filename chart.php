@@ -25,4 +25,4 @@
 
 		chart.draw(data, options);
 	}
-</s
+</scr
