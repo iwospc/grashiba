@@ -13,3 +13,5 @@ require_once("includes/common.php");
 //		print_r($item);
 //		$sql = "INSERT INTO items (id, name) VALUES ('$item[0]', '$item[1]')";
 		$result = mysql_query($sql);
+//		if($result = mysql_query($sql)){
+//			$count++;
