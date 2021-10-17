@@ -7,3 +7,5 @@ require_once("includes/common.php");
 //	print "<pre>";
 	$time = time();
 //	$count = 0;
+	while(! feof($fp)){
+		$item = (fgetcsv($fp));
