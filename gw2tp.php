@@ -15,3 +15,6 @@ require_once("includes/common.php");
 		$result = mysql_query($sql);
 //		if($result = mysql_query($sql)){
 //			$count++;
+//		}
+	}
+	$week_ago = $time - 60 *60 * 24 * 7;
