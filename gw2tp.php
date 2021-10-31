@@ -23,3 +23,5 @@ require_once("includes/common.php");
 //	print "$count items added to database\n $sql";
 //	print "</pre>";
 // fclose
+	fclose($fp);
+// print
