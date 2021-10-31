@@ -25,3 +25,4 @@ require_once("includes/common.php");
 // fclose
 	fclose($fp);
 // print
+//	print_r($data);
