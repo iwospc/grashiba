@@ -26,3 +26,5 @@ require_once("includes/common.php");
 	fclose($fp);
 // print
 //	print_r($data);
+	return 0;
+?>
