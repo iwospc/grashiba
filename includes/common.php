@@ -8,3 +8,5 @@ if (($connection = @mysql_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD)) === fals
 	print "could not connect to server";
 
 if (@mysql_select_db(DB_NAME, $connection) === false)
+	print "could not connect to database";
+?>
