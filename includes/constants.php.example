@@ -2,3 +2,7 @@
 <?php
 // constants.php for tradingpost queries
 define("DB_NAME", "myDatabase");
+
+define("DB_PASSWORD", "myDatabasePassword1234");
+
+define("DB_SERVER", "localhost");
