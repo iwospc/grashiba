@@ -8,3 +8,5 @@ define("DB_PASSWORD", "myDatabasePassword1234");
 define("DB_SERVER", "localhost");
 
 define("DB_USERNAME", "myUsername");
+
+?>
