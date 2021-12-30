@@ -15,3 +15,4 @@
 <body>
 	<header>
 		<div id="title">The Bazaar: Past Prices from the Trading Post
+		</div>
