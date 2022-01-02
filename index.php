@@ -16,3 +16,7 @@
 	<header>
 		<div id="title">The Bazaar: Past Prices from the Trading Post
 		</div>
+		<div id="search">
+			<form action="index.php" method="get">
+			<div class="widget">
+				<input type="text" id="searchbox" name="searchbox" placeholder="Search items e.g. Country Coat"/>
