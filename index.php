@@ -20,3 +20,5 @@
 			<form action="index.php" method="get">
 			<div class="widget">
 				<input type="text" id="searchbox" name="searchbox" placeholder="Search items e.g. Country Coat"/>
+				<input type="submit" value="submit"/>
+			</div>
