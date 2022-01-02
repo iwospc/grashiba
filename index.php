@@ -22,3 +22,6 @@
 				<input type="text" id="searchbox" name="searchbox" placeholder="Search items e.g. Country Coat"/>
 				<input type="submit" value="submit"/>
 			</div>
+			</form>
+		</div>
+	</header>
