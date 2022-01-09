@@ -26,3 +26,4 @@
 		</div>
 	</header>
 	<div id="results">
+		<div id="table_div">
