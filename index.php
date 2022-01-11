@@ -29,3 +29,5 @@
 		<div id="table_div">
 		</div>
 	<?php
+	require_once("includes/common.php");
+	if(isset($_GET["id"])){
