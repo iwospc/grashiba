@@ -31,3 +31,5 @@
 	<?php
 	require_once("includes/common.php");
 	if(isset($_GET["id"])){
+		$itemId = $_GET["id"];
+		$sql = "SELECT items.id, items.name, time, buy, sell
