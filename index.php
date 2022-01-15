@@ -35,3 +35,5 @@
 		$sql = "SELECT items.id, items.name, time, buy, sell
 			FROM items
 			LEFT JOIN prices
+			ON items.id = prices.id
+			WHERE prices.id = '$itemId'
