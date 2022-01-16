@@ -41,3 +41,5 @@
 		$result = mysql_query($sql);
 		$stack = array();
 		$row = mysql_fetch_array($result);
+		while($row = mysql_fetch_array($result)){
+			$itemName = $row[1];
