@@ -40,3 +40,4 @@
 			ORDER BY time";
 		$result = mysql_query($sql);
 		$stack = array();
+		$row = mysql_fetch_array($result);
