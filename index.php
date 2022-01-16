@@ -39,3 +39,4 @@
 			WHERE prices.id = '$itemId'
 			ORDER BY time";
 		$result = mysql_query($sql);
+		$stack = array();
