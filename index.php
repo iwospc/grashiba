@@ -46,3 +46,4 @@
 			$array = array("new Date(" . $row[2] . " * 1000)", $row[3], $row[4]);
 			array_push($stack, $array);
 		}
+		$stack = json_encode($stack);
