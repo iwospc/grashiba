@@ -44,3 +44,5 @@
 		while($row = mysql_fetch_array($result)){
 			$itemName = $row[1];
 			$array = array("new Date(" . $row[2] . " * 1000)", $row[3], $row[4]);
+			array_push($stack, $array);
+		}
