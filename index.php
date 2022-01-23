@@ -53,3 +53,7 @@
 //		$stack = str_replace('Sell Price', '"Sell Price"', $stack);
 //		print_r($stack);
 		include "chart.php";
+	}
+	elseif(isset($_GET["searchbox"])){
+		$itemQuery = $_GET["searchbox"];
+		$sql = "SELECT id, name
