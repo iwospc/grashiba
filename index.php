@@ -50,3 +50,6 @@
 		$stack = str_replace('"', '', $stack);
 //		$stack = str_replace('Time', '"Time"', $stack);
 //		$stack = str_replace('Buy Price', '"Buy Price"', $stack);
+//		$stack = str_replace('Sell Price', '"Sell Price"', $stack);
+//		print_r($stack);
+		include "chart.php";
