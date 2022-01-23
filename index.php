@@ -48,3 +48,5 @@
 		}
 		$stack = json_encode($stack);
 		$stack = str_replace('"', '', $stack);
+//		$stack = str_replace('Time', '"Time"', $stack);
+//		$stack = str_replace('Buy Price', '"Buy Price"', $stack);
