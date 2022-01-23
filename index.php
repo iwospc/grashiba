@@ -47,3 +47,4 @@
 			array_push($stack, $array);
 		}
 		$stack = json_encode($stack);
+		$stack = str_replace('"', '', $stack);
