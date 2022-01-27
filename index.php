@@ -57,3 +57,4 @@
 	elseif(isset($_GET["searchbox"])){
 		$itemQuery = $_GET["searchbox"];
 		$sql = "SELECT id, name
+			FROM items 
