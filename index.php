@@ -58,3 +58,6 @@
 		$itemQuery = $_GET["searchbox"];
 		$sql = "SELECT id, name
 			FROM items 
+			WHERE items.name LIKE '%$itemQuery%'";
+		$result = mysql_query($sql);
+		$stack = array();
