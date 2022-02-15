@@ -62,3 +62,5 @@
 		$result = mysql_query($sql);
 		$stack = array();
 		while($row = mysql_fetch_array($result)){
+			$array = array(
+			"<a href='index.php?id=" . $row[0] . "'>" . $row[1] . "</a>"
