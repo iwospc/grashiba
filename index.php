@@ -61,3 +61,4 @@
 			WHERE items.name LIKE '%$itemQuery%'";
 		$result = mysql_query($sql);
 		$stack = array();
+		while($row = mysql_fetch_array($result)){
