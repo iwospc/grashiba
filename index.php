@@ -68,3 +68,4 @@
 			array_push($stack, $array);
 		}
 		echo "<br><br>";
+		$stack = (json_encode($stack));
