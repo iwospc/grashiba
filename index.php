@@ -66,3 +66,5 @@
 			"<a href='index.php?id=" . $row[0] . "'>" . $row[1] . "</a>"
 			);
 			array_push($stack, $array);
+		}
+		echo "<br><br>";
