@@ -69,3 +69,5 @@
 		}
 		echo "<br><br>";
 		$stack = (json_encode($stack));
+		include "script.php";
+	}
