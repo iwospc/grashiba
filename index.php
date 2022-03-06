@@ -71,3 +71,5 @@
 		$stack = (json_encode($stack));
 		include "script.php";
 	}
+// For learning purposes:
+// Slow query caused by infinite loop? Methinks yes . . .
