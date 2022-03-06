@@ -76,3 +76,5 @@
 //		while($result){
 //			$row = mysql_fetch_array($result);
 //			print_r($row);
+//		}
+	else {
