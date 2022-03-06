@@ -73,3 +73,5 @@
 	}
 // For learning purposes:
 // Slow query caused by infinite loop? Methinks yes . . .
+//		while($result){
+//			$row = mysql_fetch_array($result);
