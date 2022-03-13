@@ -81,3 +81,6 @@
 		include "menu.php";
 //	prints array of all items in the DB
 //		$sql = "SELECT * FROM items GROUP BY name";
+//		$result = mysql_query($sql);
+//		print "[";
+//		while($row = mysql_fetch_array($result)){
