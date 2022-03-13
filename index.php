@@ -84,3 +84,6 @@
 //		$result = mysql_query($sql);
 //		print "[";
 //		while($row = mysql_fetch_array($result)){
+//			print "\"" . $row['name'] . "\"";
+//			print ", ";
+//		}
