@@ -80,3 +80,4 @@
 	else {
 		include "menu.php";
 //	prints array of all items in the DB
+//		$sql = "SELECT * FROM items GROUP BY name";
