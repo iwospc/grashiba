@@ -90,3 +90,5 @@
 //		print "]";
 	     }
 	?>
+	</div>
+	<footer><small><span style="float: left;">Website by <a href="https://twitter.com/Casey_C_Brown">Casey Brown</a></span><span style="float: right;">Guild Wars content is <a href="https://www.guildwars2.com/en/legal/guild-wars-2-content-terms-of-use/">&copy; ArenaNet, LLC.</a> All rights reserved.</span></small>
