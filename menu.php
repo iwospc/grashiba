@@ -1,2 +1,2 @@
 <div id="menu">
-<u
+<ul
