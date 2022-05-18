@@ -1,3 +1,3 @@
 <div id="menu">
 <ul>
-	<li><a href="index.
+	<li><a href="index.ph
