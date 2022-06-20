@@ -1,3 +1,3 @@
 <div id="menu">
 <ul>
-	<li><a href="index.php?id=19697">Copp
+	<li><a href="index.php?id=19697">Copper
