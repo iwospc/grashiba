@@ -7,3 +7,4 @@
 	function drawTable() {
 	    var data = new google.visualization.DataTable();
 	    data.addColumn('string', 'Item');
+	    data.addRows(<?php echo $stack ?>);
