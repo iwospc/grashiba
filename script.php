@@ -11,3 +11,7 @@
 	    data.setColumnProperty(0, {allowHtml: true});
 
 	    var table = new google.visualization.Table(document.getElementById('table_div'));
+
+	    table.draw(data, {allowHtml: true});
+	}
+</script>
