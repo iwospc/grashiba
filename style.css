@@ -7,3 +7,4 @@ html, body {
 html {
 	background: url(charr_great_wall.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
+	-moz-background-size: cover;
