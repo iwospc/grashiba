@@ -17,3 +17,6 @@ body {
 	font-size: 10px;
 	font: 1.6em sans-serif;
 }
+
+div#search {
+	margin: 0 auto;
