@@ -26,3 +26,5 @@ div#search {
 form {
 	margin: 0 auto;
 }
+input[name=searchbox] {
+	width: 230px;
