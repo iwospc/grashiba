@@ -28,3 +28,6 @@ form {
 }
 input[name=searchbox] {
 	width: 230px;
+}
+#title {
+	background-color: #000;
