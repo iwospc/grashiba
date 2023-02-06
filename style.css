@@ -39,3 +39,5 @@ input[name=searchbox] {
 #table_div {
 	margin: 0 auto;
 	width: 75%;
+	max-height: 500px;
+}
