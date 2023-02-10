@@ -44,3 +44,5 @@ input[name=searchbox] {
 
 #menu {
 	margin: 0 auto;
+	max-width: 500px;
+	min-width: 250px;
