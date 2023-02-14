@@ -51,3 +51,5 @@ input[name=searchbox] {
 }
 
 footer {
+	width: 100%;
+	background-color: #ffffff;
