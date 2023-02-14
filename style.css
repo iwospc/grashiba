@@ -46,3 +46,8 @@ input[name=searchbox] {
 	margin: 0 auto;
 	max-width: 500px;
 	min-width: 250px;
+	background-color: #eee;
+	opacity: .5;
+}
+
+footer {
