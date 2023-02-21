@@ -55,3 +55,6 @@ footer {
 	background-color: #ffffff;
 	color: #000000;
 	margin: 0 auto;
+	padding: 10px 0 0 0;
+	position: fixed;
+	bottom: 0;
