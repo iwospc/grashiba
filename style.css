@@ -58,3 +58,5 @@ footer {
 	padding: 10px 0 0 0;
 	position: fixed;
 	bottom: 0;
+	line-height: .5em;
+}
