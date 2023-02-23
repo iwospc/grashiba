@@ -64,3 +64,8 @@ footer {
 small {
 	font-size: .5em;
 }
+
+.ui-autocomplete {
+	font-size: 12px;
+	max-height: 200px;
+	overflow-y: auto;
