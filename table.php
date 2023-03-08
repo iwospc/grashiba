@@ -12,3 +12,5 @@
 		function drawTable(){
 			var data = new google.visualization.DataTable();
 			data.addColumn('string', 'Item');
+			data.addColumn('string', 'Buy');
+			data.addColumn('string', 'Sell');
