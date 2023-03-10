@@ -20,3 +20,7 @@
 			]);
 
 			var table = new google.visualization.Table(document.getElementById('table_div'));
+
+			table.draw(data, {showRowNumber: true});
+		}
+	</script>
