@@ -18,3 +18,5 @@
 			['Wood', '5', '10'],
 			['Iron', '9', '14']
 			]);
+
+			var table = new google.visualization.Table(document.getElementById('table_div'));
