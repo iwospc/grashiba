@@ -14,3 +14,7 @@
 			data.addColumn('string', 'Item');
 			data.addColumn('string', 'Buy');
 			data.addColumn('string', 'Sell');
+			data.addRows([
+			['Wood', '5', '10'],
+			['Iron', '9', '14']
+			]);
