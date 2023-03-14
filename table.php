@@ -24,3 +24,5 @@
 			table.draw(data, {showRowNumber: true});
 		}
 	</script>
+</head>
+<body>
