@@ -27,3 +27,5 @@
 </head>
 <body>
 	<div id="table_div"></div>
+</body>
+</html>
