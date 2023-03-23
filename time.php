@@ -6,3 +6,5 @@
 	print "\$now = getdate()\n";
 	$now = getdate();
 	print_r($now);
+	
+	print "<strong>$time = time()</strong><br><br>";
