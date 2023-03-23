@@ -8,3 +8,4 @@
 	print_r($now);
 	
 	print "<strong>$time = time()</strong><br><br>";
+	print "<blockquote>" . $time = time() . "</blockquote><br><br>";
