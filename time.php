@@ -12,3 +12,6 @@
 
 	print "<strong>date('Y/m/d')</strong><br><br>";
 	print "<blockquote>" . $today = date("Y/m/d") . "</blockquote><br><br>";
+
+	print "<strong>date('M jS')</strong><br><br>";
+	print "<blockquote>" . date("M jS") . "</blockquote><br><br>";
