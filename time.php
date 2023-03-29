@@ -15,3 +15,6 @@
 
 	print "<strong>date('M jS')</strong><br><br>";
 	print "<blockquote>" . date("M jS") . "</blockquote><br><br>";
+
+	print "<strong>date('M jS', $time)</strong><br><br>";
+	print "<blockquote>" . date("M jS", strtotime($time)) . "</blockquote><br><br>";
