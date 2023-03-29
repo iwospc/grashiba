@@ -20,3 +20,5 @@
 	print "<blockquote>" . date("M jS", strtotime($time)) . "</blockquote><br><br>";
 	print "<strong>12h date('Ymdh')</strong><br><br>";
 	print "<blockquote>" . date("Ymdh") . "</blockquote><br><br>";
+
+	print "<strong>12h gmdate('Ymdh')</strong><br><br>";
