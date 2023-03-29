@@ -22,3 +22,4 @@
 	print "<blockquote>" . date("Ymdh") . "</blockquote><br><br>";
 
 	print "<strong>12h gmdate('Ymdh')</strong><br><br>";
+	print "<blockquote>" . gmdate("Ymdh") . "</blockquote><br><br>";
