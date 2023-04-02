@@ -23,3 +23,6 @@
 
 	print "<strong>12h gmdate('Ymdh')</strong><br><br>";
 	print "<blockquote>" . gmdate("Ymdh") . "</blockquote><br><br>";
+
+	print "<strong>24h date('YmdH')</strong><br><br>";
+	print "<blockquote>" . date("mdH") . "</blockquote><br><br>";
