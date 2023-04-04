@@ -29,3 +29,5 @@
 
 	print "<strong>24h gmdate('YmdH')</strong><br><br>";
 	print "<blockquote>" . gmdate("YmdH") . "</blockquote><br><br>";
+
+	print "</pre>";
