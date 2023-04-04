@@ -26,3 +26,6 @@
 
 	print "<strong>24h date('YmdH')</strong><br><br>";
 	print "<blockquote>" . date("mdH") . "</blockquote><br><br>";
+
+	print "<strong>24h gmdate('YmdH')</strong><br><br>";
+	print "<blockquote>" . gmdate("YmdH") . "</blockquote><br><br>";
