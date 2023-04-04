@@ -31,3 +31,4 @@
 	print "<blockquote>" . gmdate("YmdH") . "</blockquote><br><br>";
 
 	print "</pre>";
+?>
